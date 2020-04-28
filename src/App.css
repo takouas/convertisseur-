@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+body{
+  background-image: url('https://images.unsplash.com/photo-1524678714210-9917a6c619c2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ');
+  background-attachment: fixed;
+  background-size: 100% 100%; 
+background-repeat: no-repeat;
+}
+.containre{
+margin-top:55px ;
+}
+.button{
+  border-radius:15px ;
+  background-color:white;
+
+}
+.input{
+  border-radius:15px ;
+}
+p{
+  margin-top:180px;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-radius:15px;
+  border: white 2px solid;
+
+
+}
+
+
+
+
+
+
+
